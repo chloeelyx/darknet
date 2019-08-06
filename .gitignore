@@ -1,0 +1,26 @@
+# ignore dot files/directories
+darknet53.conv.74
+.74
+.*
+!.gitignore
+
+*.autosave
+*.pyc
+*.user
+*~
+Thumbs.db
+tags
+tegra/
+bin/
+*.sdf
+*.opensdf
+*.obj
+*.stamp
+*.depend
+*.rule
+*.tmp
+*/debug
+*.suo
+*.log
+*.tlog
+build
